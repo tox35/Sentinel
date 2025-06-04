@@ -10,7 +10,7 @@
 - ✅ LLaMA 3.2-Vision analysis via Ollama
 - ✅ Buy/Hold/Sell recommendation
 
-## Tech Stack
+## 📚 Tech Stack
 - Python
 - Streamlit
 - yfinance
