@@ -3,7 +3,7 @@
 ## Overview
 **Sentinel** is a Streamlit dashboard that integrates stock charting with AI-driven trading insights. It combines real-time stock data with candlestick charts and technical indicators, then uses vision-based LLMs to analyze and recommend trades.
 
-## Features
+## ⚙️ Features
 - ✅ Real-time stock data from Yahoo Finance
 - ✅ Candlestick chart with technical indicators
 - ✅ Export chart as image
